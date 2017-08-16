@@ -1,0 +1,33 @@
+body {
+	background-color: blue;
+}
+
+div {
+	background-color: lightblue;
+	text-align: center;
+}
+
+div.main {
+	height: 490px;
+	width: 800px;
+	margin: auto;
+}
+
+div.info {
+	margin: 20px 0 20px 0;
+	float: left;
+}
+
+div.peys {
+	margin:20px 0 20px 0;
+	float: right;
+}
+
+h4 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	font-family: "Courier New", serif;
+}
