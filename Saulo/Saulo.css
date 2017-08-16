@@ -1,0 +1,41 @@
+body {
+      background-color: black;
+      color: white;
+}
+
+h1 {
+      text-align: center;
+}
+
+.right {
+      position: absolute;
+      right: 500px;
+      border-style: solid;
+      border-color: white;
+      padding-top: 50px;
+      padding-right: 50px;
+      padding-bottom: 50px;
+      padding-left: 50px;
+}
+
+.left {
+      position: absolute;
+      left: 300px;
+}
+
+.shield img {
+      width:1850px;
+      height:700px;
+      margin: -150px -150px 0 0;
+}
+/*ul {
+      margin: 0;
+      padding: 0;
+      background-color: #333;
+      width: 1850px;
+}
+
+li {
+      float: left;
+      list-style-type: none;
+}*/
